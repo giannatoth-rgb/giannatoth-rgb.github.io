@@ -1,6 +1,6 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #1b078b;
+    --secondaryText: #8bd4ff;
     --primary: rgba(39, 176, 158, 0.6);
     --secondary: rgba(72, 177, 132, 0.6); 
     --buttonHover: rgba(62, 168, 217, 0.4);
@@ -111,7 +111,7 @@ img {
 .button, .external-link {
     border: 1px solid var(--primaryText);
     border-radius: 20px;
-    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+    box-shadow: 7px 6px 28px 1px rgba(193, 222, 232, 0.24);
     overflow: hidden;
     white-space: nowrap;
     display: inline-block;
