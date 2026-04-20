@@ -1,5 +1,5 @@
 :root {
-    --primaryText: #fff;
+    --primaryText: #0f5180;
     --secondaryText: #8bd4ff;
     --primary: rgba(39, 176, 158, 0.6);
     --secondary: rgba(72, 177, 132, 0.6); 
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
@@ -87,9 +87,6 @@ img {
     color: var(--secondaryText);
 }
 
-.name strong {
-    background-color: rgba(168, 213, 249, 0.5);
-}
 
 .section-header {
     padding-top: .5em;
